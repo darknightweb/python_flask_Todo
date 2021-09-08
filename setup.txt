@@ -1,0 +1,19 @@
+1. use IDE to open the project (recommended is v.s code)
+
+2. open the terminal to install python pip
+then install virtualenv according to your OS
+ 1.for windows and linux (virtualenv)
+  
+ 3. use cmd pip install virtualenv
+  
+ 4. install requirment.txt file
+ 
+ pip install -r requrment.txt
+ 
+ 
+ 
+ 5.Run  python app.py in the terminal
+ 
+ 6 hoooray go to given link in terminal ope in any browser. 
+  
+
